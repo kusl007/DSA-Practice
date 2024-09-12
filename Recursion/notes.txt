@@ -1,0 +1,15 @@
+Recursion
+
+//head recursion
+void func(){
+    //base case 
+    //recursion
+    //processig
+}
+
+//tail recursion
+void func(){
+    //base case 
+    //processig
+    //recursion
+}
