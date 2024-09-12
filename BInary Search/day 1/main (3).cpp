@@ -1,5 +1,5 @@
 #include <iostream>
-#include<vector>
+#include <vector>
 using namespace std;
 
 int lastOcc(vector<int> arr, int target) {
@@ -31,7 +31,7 @@ int lastOcc(vector<int> arr, int target) {
 }
 
 int main() {
-  vector<int> v{1,3,7,7,7,7,7,7,7,7,7,7,7,7,9};
+  vector<int> v {1,3,7,7,7,7,7,7,7,7,7,7,7,7,9};
   int target = 7;
 
   int ans = lastOcc(v, target);
