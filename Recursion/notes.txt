@@ -13,3 +13,6 @@ void func(){
     //processig
     //recursion
 }
+
+//very very important pattern include exclude
+//check level 3 SubSequences of string
