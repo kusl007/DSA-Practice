@@ -1,0 +1,5 @@
+// all the basic notes and stl functions will be available here 
+
+// to reverse a string ans
+reverse(ans.begin(), ans.end());
+
