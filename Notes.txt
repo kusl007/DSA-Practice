@@ -3,3 +3,32 @@
 // to reverse a string ans
 reverse(ans.begin(), ans.end());
 
+
+*******************************************
+
+// if you want to find something from a string then you can use .find()
+//it gives either the position or no position (npos)
+
+// example if you want to find abc in aabbabc it gives 4 like
+string str="aabbabc"
+string part="abc
+int found =str.find() =>4
+not found then it gives string::npos
+
+//for more refer to leetcode q no 1910
+
+*******************************************
+//substr is used tocut the string
+string =apple;
+substr(string ,2)
+ap
+
+*******************************************
+
+string.erase can be also used to erase certain part
+s.erase(found, part.length());
+
+
+
+
+

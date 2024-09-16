@@ -1,0 +1,1 @@
+//if 1,2,3 is given then the subarray is 1 , 12, 123,2,23,3
