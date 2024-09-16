@@ -29,6 +29,17 @@ string.erase can be also used to erase certain part
 s.erase(found, part.length());
 
 
+*******************************************
 
+vector<pair<int,string>>mp={{1,"apple"},{2,"ball"},{3,"cat"}};
+mp.first,
+mp.second can be used to iterate it
+
+
+*******************************************
+for(auto it:mp){
+    cout<<it.first;
+    cout<<it.second;
+}
 
 
