@@ -31,11 +31,11 @@ int partition(int arr[], int s, int e)
 
     while (i < pivotIndex && j > pivotIndex)
     {
-        while (arr[i] <= pivotElement)
+        if (arr[i] <= pivotElement)
         {
             i++;
         }
-        while (arr[j] > pivotElement)
+        if (arr[j] >pivotElement)
         {
             j--;
         }
