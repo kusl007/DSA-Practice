@@ -74,7 +74,7 @@ int main() {
   int col = 4;
 
   vector<vector<bool> > visited(row, vector<bool>(col,false));
-  //src ki value k true mark kredete h 
+  //mark source  value  as true  
   visited[0][0] = true;
 
   vector<string> path;

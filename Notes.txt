@@ -43,3 +43,7 @@ for(auto it:mp){
 }
 
 
+*******************************************
+making a 2d vector with all elements 0 or false
+vector<vector<bool> > visited(row, vector<bool>(col,false));
+
