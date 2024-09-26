@@ -53,3 +53,15 @@ visited.clear(); it clears everything
 used to define set to enter unique value  
 set<vector<int>>st;
 
+
+******************************************* 
+to count the number of occurence of a number in an array
+for(auto num:nums){
+    countMap[num]++;
+   }
+
+
+*******************************************
+decreasing sort
+sort(quantity.rbegin(),quantity.rend());
+    
