@@ -46,4 +46,10 @@ for(auto it:mp){
 *******************************************
 making a 2d vector with all elements 0 or false
 vector<vector<bool> > visited(row, vector<bool>(col,false));
+visited.clear(); it clears everything
+
+
+*******************************************
+used to define set to enter unique value  
+set<vector<int>>st;
 
