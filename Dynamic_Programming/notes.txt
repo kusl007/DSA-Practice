@@ -1,1 +1,8 @@
 knapack problem => vvi ==> include,exclude
+solved in level=>3
+
+*****************************************
+distinct ways patterns
+Level 4=>No of dice roll with target sum
+
+*****************************************
