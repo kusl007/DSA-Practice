@@ -27,3 +27,9 @@ map< pair<int,int> , int> maxi;
 
 
 *****************************************
+vvvvi ques
+1.coin change
+2.longest common subsequences => but uses other words
+3.Longest increasing subsequences(Russian doll)
+4.edit distance
+
