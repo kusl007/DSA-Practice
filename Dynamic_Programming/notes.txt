@@ -32,4 +32,7 @@ vvvvi ques
 2.longest common subsequences => but uses other words
 3.Longest increasing subsequences(Russian doll)
 4.edit distance
+5.Longestt increasing  subsequences
+
+
 

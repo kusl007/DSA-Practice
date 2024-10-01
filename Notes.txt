@@ -64,4 +64,15 @@ for(auto num:nums){
 *******************************************
 decreasing sort
 sort(quantity.rbegin(),quantity.rend());
+
+
+*******************************************
+last  element of vector ans
+ans.back();
+
+
+******************************************* 
+to calculate index of an element
+int index=lower_bound(arr.begin(),arr.end(),x)-arr.begin();
+x=>element  arr[i]
     
