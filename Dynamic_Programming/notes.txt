@@ -34,5 +34,8 @@ vvvvi ques
 4.edit distance
 5.Longestt increasing  subsequences
 
+*****************************************
+tree based dp que -house robber 3
+assignments q no 7
 
 
