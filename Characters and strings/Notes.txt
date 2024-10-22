@@ -38,3 +38,10 @@ else {
 ***********************************************
 
 str.replace(1,5,"love");=>(kun index bata hataune ,kati ota chars hataune,tesko satta k halne)
+
+***********************************************
+
+stoi id use to convert string to integer
+
+***********************************************
+
