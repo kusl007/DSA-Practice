@@ -1,0 +1,40 @@
+to get input of char with spaces =>  cin.getline(sentence, 100)
+
+***********************************************
+
+substr is used tocut the string
+
+string =apple;
+substr(1 ,2)=>start index,length of string
+pp
+
+***********************************************
+compare string 
+
+string a=apple;
+string b=apples;
+
+if(a.compare(b) == 0) {
+    cout<<"equal";
+}
+else {
+    cout<<"not equal";
+}
+
+***********************************************
+
+string sentence =hello everyone;
+string word = "hello";
+
+cout<<"index"<<sentence.find(word)<<endl;
+
+if(sentence.find(word) != string::npos) {
+    cout<<"found";
+}
+else {
+    cout<<"not found";
+}
+
+***********************************************
+
+str.replace(1,5,"love");=>(kun index bata hataune ,kati ota chars hataune,tesko satta k halne)
