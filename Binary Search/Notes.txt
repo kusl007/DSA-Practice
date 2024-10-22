@@ -1,0 +1,3 @@
+//search target stl => binary_search(v.begin(),v.end(),target)
+//first occ => lower_bound(v.begin(),v.end(),target) - v.begin()
+//last occ => upper_bound(v.begin(),v.end(),target) - v.begin()
