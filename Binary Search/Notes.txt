@@ -1,3 +1,5 @@
 //search target stl => binary_search(v.begin(),v.end(),target)
 //first occ => lower_bound(v.begin(),v.end(),target) - v.begin()
 //last occ => upper_bound(v.begin(),v.end(),target) - v.begin()
+
+//to copy array from start to end of other array => vector<int>(arr.begin()+s,arr.begin()+e+1);
