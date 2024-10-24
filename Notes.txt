@@ -91,3 +91,7 @@ to find max element in a vector we use
 int ans = *max_element(trees.begin(), trees.end());
 
 ******************************************* 
+
+(!isalpha(s[j])) is used to determine if the characters is alphabet  or not;
+
+*******************************************
