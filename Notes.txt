@@ -84,3 +84,10 @@ for 3d vector we declare as
 
 *******************************************
 stoi id use to convert string to integer
+
+*****************************************
+
+to find max element in a vector we use 
+int ans = *max_element(trees.begin(), trees.end());
+
+******************************************* 
