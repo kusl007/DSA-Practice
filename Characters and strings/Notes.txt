@@ -41,7 +41,7 @@ str.replace(1,5,"love");=>(kun index bata hataune ,kati ota chars hataune,tesko 
 
 ***********************************************
 
-stoi id use to convert string to integer
+atoi is use to convert string to integer
 
 ***********************************************
 (!isalpha(s[j])) is used to determine if the characters is alphabet  or not;

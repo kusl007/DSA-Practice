@@ -83,7 +83,7 @@ for 3d vector we declare as
 
 
 *******************************************
-stoi id use to convert string to integer
+atoi is use to convert string to integer
 
 *****************************************
 
