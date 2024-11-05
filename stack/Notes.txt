@@ -1,0 +1,7 @@
+top =>finds the top element of the stack
+stack<int>st => used to generate the stack of integer type
+st.empty() => checks if the stack is empty or not
+st.size() => returns the size of the stack
+st.top() => returns the top element of the stack
+st.pop() => removes the top element of the stack
+st.push() => adds an element to the top of the stack
