@@ -95,3 +95,7 @@ int ans = *max_element(trees.begin(), trees.end());
 (!isalpha(s[j])) is used to determine if the characters is alphabet  or not;
 
 *******************************************
+for making a pair 
+  pair<int ,int> peer;
+  peer.first=val;
+  peer.second=val; 
