@@ -19,6 +19,10 @@ void SubSequenceFinder(string &str, string output, vector<string> &arr, int i)
     // include
     output.push_back(str[i]);
     SubSequenceFinder(str, output, arr, i + 1);
+    // output.pop_back();
+
+    //  // exclude
+    //  SubSequenceFinder(str, output, arr, i + 1);
 }
 
 int main()
@@ -31,6 +35,9 @@ int main()
     cout << "printing all the sub sequences" << endl;
     for (auto i : arr)
     {
+        if (i.size()==0){
+            cout<<" { } ";
+        }
         cout << i << "  ";
     }
 
