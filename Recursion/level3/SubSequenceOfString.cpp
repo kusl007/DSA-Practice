@@ -20,6 +20,7 @@ void SubSequenceFinder(string str, string output, int i)
     // include
     output.push_back(str[i]);
     SubSequenceFinder(str, output, i + 1);
+    // output.pop_back();
 
     // if wanna write exclude in bottom must remove the included part in top
     // exclude
